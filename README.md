@@ -1,2 +1,3 @@
 # Instagram-Egypt-Influencers-EDA
-The goal from this Analysis is to decide with influencer is most effective when it comes to making a paid Ad with him or her
+The goal of this Analysis is to decide which influencer is most effective when it comes to making a paid Ad with him or her
+The Analysis Devides the data into samples from 10 Influencers than we Excluded the Actors and Singers because they cost much when it comes to Ads and then we showed by the graphs in each category the best Influencers to pick nite that the data might have missed some Influencers from the top 100 but it gives us a good idea about the effect of engagement over the reach hue the number   of Followers and that the number of followers is not always the best to look at when it comes to deciding which Influencer is better for ADs
